@@ -8,3 +8,6 @@ Stay updated with real-time weather conditions anywhere in the world! 🌎
 ✅ 📍 Location-based Weather – Automatically fetch weather for your current location.
 ✅ 📌 Save Favorite Cities – Quick access to your most-visited locations.
 
+🌐 Try it now:  https://raludzingana98.github.io/Weather-app/
+
+
