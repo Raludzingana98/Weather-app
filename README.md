@@ -6,6 +6,5 @@ Stay updated with real-time weather conditions anywhere in the world! 🌎
 ✅ 5-Day Forecast – Plan ahead with detailed daily weather predictions.
 ✅ 🌡 Feels-like Temperature & ☀️ UV Index – Know how the weather really feels and stay protected.
 ✅ 📍 Location-based Weather – Automatically fetch weather for your current location.
-✅ 🎙 Voice Search – Simply speak a city name to get instant weather info.
 ✅ 📌 Save Favorite Cities – Quick access to your most-visited locations.
-✅ 🔔 Weather Alerts – Get notified about extreme weather conditions.
+
