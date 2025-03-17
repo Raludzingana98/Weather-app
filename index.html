@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Weather App</h2>
+        <button id="theme-toggle">🌙 Dark Mode</button>
+        <button id="location-btn">📍 Use My Location</button>
+        
+        <input type="text" id="city" placeholder="Enter city name">
+        <button onclick="getWeather()">Get Weather</button>
+        
+        
+        <div id="weather-result"></div>
+        <div id="forecast-result"></div>
+        
+        <h3>Favorite Cities</h3>
+        <div id="favorite-cities"></div>
+        <h3>By Shumani Marvellous Raludzingana</h3>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
